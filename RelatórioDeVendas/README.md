@@ -11,7 +11,7 @@
 <br />
 
 ## Visão Geral
- <b>Este relatório de vendas foi criado para fornecer uma visão geral das vendas, lucros e unidades vendidas, segmentadas por produto, ano, mês, país e tipo de cliente. </b>
+ <b>Este relatório de vendas foi criado para fornecer uma visão geral das vendas, lucros e unidades vendidas, segmentadas por produto, ano, mês e país. </b>
 
 ## Contéudo do Relatório
 ### Página 1
@@ -28,7 +28,7 @@ Apresenta a soma das vendas agrupadas por ano, mês e diferentes segmentos de me
 
 ### Página 2
 ![alt text](image-2.png)
-<p> Exibe a distribuição de lucro por segemento, <br>
+<p> Exibe a distribuição de lucro por segmento, <br>
      Exibe a soma de vendas e a soma de lucros por distribuição geográfica</p>
 
 ## Objetivo do Relatório
