@@ -26,7 +26,7 @@ Apresenta a soma das vendas agrupadas por ano, mês e diferentes segmentos de me
 <p> Exibe a soma das vendas e o lucro total por país, incluindo Estados Unidos, Canadá, França, Alemanha e México, <br>
    Mostra a quantidade de unidades vendidas por país. </p>
 
-### Página 2
+### Página 3
 ![alt text](image-2.png)
 <p> Exibe a distribuição de lucro por segmento, <br>
      Exibe a soma de vendas e a soma de lucros por distribuição geográfica</p>
