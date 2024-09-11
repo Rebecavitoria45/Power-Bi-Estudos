@@ -12,8 +12,11 @@
 <br />
 
 ## Visão Geral
- <b>O objetivo desse Projeto foi integrar o MYSQL e Azure ao Power BI.<br>
- O que foi feito?<br>
+ <b>O objetivo desse Projeto foi integrar o MYSQL e Azure ao Power BI.<br></b>
+
+
+## O que foi feito?
+<b>
 -Instancia do MYSQL na nuvem Azure<br>
 -Criada a base de dados e populada <br>
 -Integração do Power BI com mysql no azure <br>
