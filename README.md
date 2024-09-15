@@ -16,7 +16,7 @@
  <a href="https://github.com/Rebecavitoria45/Power-Bi-Estudos/tree/master/Relat%C3%B3rioDeVendas">Relatório de Vendas📈🏷️</a><br>
  <a href="https://github.com/Rebecavitoria45/Power-Bi-Estudos/tree/master/SalesReport2">Relatório de Vendas 2📈</a><br>
  <a href="https://github.com/Rebecavitoria45/Power-Bi-Estudos/tree/master/AzureCompany">Azure Company☁️👩‍💻</a>
-
+<a href="https://github.com/Rebecavitoria45/Power-Bi-Estudos/tree/master/Modelando%20dados">Modelando os dados🎲📄</a>
  
 
 
