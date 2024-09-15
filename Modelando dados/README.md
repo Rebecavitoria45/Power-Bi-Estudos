@@ -18,7 +18,8 @@
 ![alt text](image-1.png)
 
 ## Importância da modelagem
-<b> A modelagem de dados em estrela (Star Schema) no Power BI é importante porque facilita a análise e o desempenho dos relatórios. Ela organiza <br>os dados em uma estrutura simples, com uma tabela central (fato) contendo dados numéricos, conectada a várias tabelas dimensionais que contêm <br>informações descritivas. Isso otimiza consultas, simplifica a criação de relatórios e melhora a performance ao reduzir a complexidade das relações entre os dados, tornando a análise mais rápida e eficiente.</b>    
+<b> A modelagem de dados em estrela (Star Schema) no Power BI é importante porque facilita a análise e o desempenho dos relatórios. <br>
+Ela organiza os dados em uma estrutura simples, com uma tabela central (fato) contendo dados numéricos, conectada a várias tabelas dimensionais que contêm informações descritivas. Isso otimiza consultas, simplifica a criação de relatórios e melhora a performance ao reduzir a complexidade das relações entre os dados, tornando a análise mais rápida e eficiente.</b>    
 
 ## Contato
    ### Autora: Rebeca vitória
