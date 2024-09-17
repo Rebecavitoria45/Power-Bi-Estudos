@@ -15,7 +15,7 @@
 
 ## Contéudo do Relatório
 ### Página 1
-![alt text](image.png)
+![alt text](image-2.png)
 
 
 ### Página 2
@@ -31,7 +31,7 @@ Utilizando a mesma Base de dados do projeto de vendas anterior, criei um novo te
    ### Autora: Rebeca vitória
    ### Email: bebecavitoria4738@gmail.com
    ### Linkedin: https://www.linkedin.com/in/rebecavitoriadev/
-   ### Aruivo: https://drive.google.com/file/d/1eyAZqFkLKIstQjSuOd-IsH777-07hOtW/view?usp=sharing
+   ### Arquivo: está anexado a pasta SalesReport2
 
 
        
